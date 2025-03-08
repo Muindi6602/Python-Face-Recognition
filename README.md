@@ -1,2 +1,2 @@
 # Python-Face-Recognition
-A Python Application to detect Faces of and similar looks
+An intuitive Python-based face recognition system that identifies individuals in images using a database of facial images. Perfect for security and personal projects!
