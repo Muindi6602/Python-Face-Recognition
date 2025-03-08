@@ -19,7 +19,7 @@ pip install face_recognition opencv-python
 Get the code by cloning this repository:  
 
 ```sh
-git clone https://github.com/your-github-username/face-recognition-system.git
+git clone https://github.com/Muindi6602/Python-Face-Recognition.git
 ```  
 
 ## Usage 📘  
@@ -54,6 +54,6 @@ Your contributions are welcome! If you have suggestions for improvements, please
 Stay tuned for these exciting enhancements that will make the system more powerful and versatile for all users!  
 
 ## Acknowledgments 👏  
-Props to **Haar Cascades** for face detection capabilities. Gratitude to the **face_recognition** library for simplifying facial recognition technology. Kudos to **opencv** and **matplotlib** for their powerful image processing and visualization tools.  
+Props to **Muindi** for face detection capabilities. Gratitude to the **face_recognition** library for simplifying facial recognition technology. Kudos to **opencv** and **matplotlib** for their powerful image processing and visualization tools.  
 
 Do remember to **⭐ star the repository** if you like what you see!  
