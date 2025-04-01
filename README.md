@@ -8,18 +8,6 @@
 
 <br>
 
-### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
-  <a href="https://github.com/NadavIs56/Face-Detection-and-Recognition/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/Face-Detection-and-Recognition"></a>
-</p>
-
-<br>
-
-![explain](https://github.com/NadavIs56/Face-Detection-and-Recognition/assets/73107945/3afcfd39-6ab8-4f7d-b99b-ddcd5fbc54e6)
-
-<br>
-
 ## Introduction 🌟
 
 Welcome to a customizable face recognition system designed to identify individuals in photographs based on a user-populated database of facial images. This powerful tool harnesses Python and its potent libraries, such as `face_recognition` and `opencv`, offering a blend of accuracy and user-centric functionality. Tailor the database with your images and let the system pinpoint matches with ease.
@@ -110,5 +98,5 @@ Kudos to opencv and matplotlib for their powerful image processing and visualiza
 
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
+  Made with ❤️ by <a href="https://github.com/Muindi6602">Muindi</a>
 </div>
